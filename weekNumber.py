@@ -2,7 +2,7 @@
 import pandas as pd
 from datetime import datetime, timedelta
 from isoweek import Week
-
+# this is updated and extracting right info
 
 dateToday= datetime.now()
 day_of_week=dateToday.weekday()+1
